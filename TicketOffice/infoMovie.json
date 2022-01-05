@@ -1,0 +1,133 @@
+{
+  "films": [
+    {
+      "name": "Во все тяжкое",
+      "data": [
+        {
+          "data": "27.11.2021",
+          "time": [
+            {
+              "time": "9:30",
+              "hall": "hall_1",
+              "price" : []
+            },
+            {
+              "time": "12:00",
+              "hall": "hall_1"
+            },
+            {
+              "time": "14:30",
+              "hall": "hall_1"
+            },
+            {
+              "time": "17:00",
+              "hall": "hall_1"
+            },
+            {
+              "time": "19:30",
+              "hall": "hall_1"
+            },
+            {
+              "time": "22:00",
+              "hall": "hall_1"
+            }
+          ]
+        },
+        {
+          "data": "28.11.2021",
+          "time": [
+            {
+              "time": "9:30",
+              "hall": "hall_1"
+            },
+            {
+              "time": "12:00",
+              "hall": "hall_1"
+            },
+            {
+              "time": "14:30",
+              "hall": "hall_1"
+            },
+            {
+              "time": "17:00",
+              "hall": "hall_1"
+            },
+            {
+              "time": "19:30",
+              "hall": "hall_1"
+            },
+            {
+              "time": "22:00",
+              "hall": "hall_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Поколение вояджера",
+      "data": [
+        {
+          "data": "27.11.2021",
+          "time": [
+            {
+              "time": "8:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "11:00",
+              "hall": "hall_4"
+            },
+            {
+              "time": "13:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "16:00",
+              "hall": "hall_4"
+            },
+            {
+              "time": "18:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "21:00",
+              "hall": "hall_4"
+            }
+          ]
+        },
+        {
+          "data": "28.11.2021",
+          "time": [
+            {
+              "time": "8:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "11:00",
+              "hall": "hall_4"
+            },
+            {
+              "time": "13:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "16:00",
+              "hall": "hall_4"
+            },
+            {
+              "time": "18:30",
+              "hall": "hall_3"
+            },
+            {
+              "time": "21:00",
+              "hall": "hall_4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
